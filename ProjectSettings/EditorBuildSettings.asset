@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/ChihoScenes/native.unity
+    guid: d072dd39b4fc8964d8e96c60850ca52f
+  - enabled: 1
     path: Assets/ChihoScenes/main.unity
     guid: 93e92ce13f59ba14c91cd86a1182d364
